@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\son_folder\\.net_practices\\LabuorMarketSimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF1CB68-7480-494A-A5DD-88E52ABF2D21}|LabourMarketSimulation.csproj|c:\\users\\acer\\onedrive\\desktop\\son_folder\\.net_practices\\labuormarketsimulation\\models\\employeremployeemediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF1CB68-7480-494A-A5DD-88E52ABF2D21}|LabourMarketSimulation.csproj|solutionrelative:models\\employeremployeemediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF1CB68-7480-494A-A5DD-88E52ABF2D21}|LabourMarketSimulation.csproj|c:\\users\\acer\\onedrive\\desktop\\son_folder\\.net_practices\\labuormarketsimulation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF1CB68-7480-494A-A5DD-88E52ABF2D21}|LabourMarketSimulation.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 216,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployerEmployeeMediator.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\son_folder\\.net_practices\\LabuorMarketSimulation\\Models\\EmployerEmployeeMediator.cs",
+              "RelativeDocumentMoniker": "Models\\EmployerEmployeeMediator.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\son_folder\\.net_practices\\LabuorMarketSimulation\\Models\\EmployerEmployeeMediator.cs",
+              "RelativeToolTip": "Models\\EmployerEmployeeMediator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T16:32:10.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\son_folder\\.net_practices\\LabuorMarketSimulation\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\son_folder\\.net_practices\\LabuorMarketSimulation\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:26:40.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 184,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
