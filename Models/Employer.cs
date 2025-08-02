@@ -1,15 +1,19 @@
 ﻿using LabourMarketSimulation.Interfaces;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace LabourMarketSimulation.Models
 {
-    public class Employer : ModelParticipant
+    public class Employer : IParticipant, IPrioritizer<Employee>
     {
-        public Employer(IPriorityStrategy priorityStrategy,
-                        IEnumerable<IAdvantage> advantages,
-                        IEnumerable<IAdvantage> requirements) 
-            : base(priorityStrategy, advantages, requirements)
+        public ICollection<IEmployerRequirement>? Requirements { get; set; }
+        public ICollection<IEmployerAdvantage>? Advantages { get; set; }
+        public int? GetPriority(Employee? member)
         {
-            
+            return 1;
         }
     }
 }

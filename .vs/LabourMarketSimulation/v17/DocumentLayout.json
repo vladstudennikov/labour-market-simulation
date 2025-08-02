@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\son_folder\\.net_practices\\LabuorMarketSimulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AF1CB68-7480-494A-A5DD-88E52ABF2D21}|LabourMarketSimulation.csproj|c:\\users\\acer\\onedrive\\desktop\\son_folder\\.net_practices\\labuormarketsimulation\\models\\employeremployeemediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AF1CB68-7480-494A-A5DD-88E52ABF2D21}|LabourMarketSimulation.csproj|solutionrelative:models\\employeremployeemediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AF1CB68-7480-494A-A5DD-88E52ABF2D21}|LabourMarketSimulation.csproj|c:\\users\\acer\\onedrive\\desktop\\son_folder\\.net_practices\\labuormarketsimulation\\registries\\employeeskillsregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF1CB68-7480-494A-A5DD-88E52ABF2D21}|LabourMarketSimulation.csproj|solutionrelative:registries\\employeeskillsregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AF1CB68-7480-494A-A5DD-88E52ABF2D21}|LabourMarketSimulation.csproj|c:\\users\\acer\\onedrive\\desktop\\son_folder\\.net_practices\\labuormarketsimulation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AF1CB68-7480-494A-A5DD-88E52ABF2D21}|LabourMarketSimulation.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AF1CB68-7480-494A-A5DD-88E52ABF2D21}|LabourMarketSimulation.csproj|c:\\users\\acer\\onedrive\\desktop\\son_folder\\.net_practices\\labuormarketsimulation\\registries\\typeregistriesinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF1CB68-7480-494A-A5DD-88E52ABF2D21}|LabourMarketSimulation.csproj|solutionrelative:registries\\typeregistriesinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,34 +18,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 216,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployerEmployeeMediator.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\son_folder\\.net_practices\\LabuorMarketSimulation\\Models\\EmployerEmployeeMediator.cs",
-              "RelativeDocumentMoniker": "Models\\EmployerEmployeeMediator.cs",
-              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\son_folder\\.net_practices\\LabuorMarketSimulation\\Models\\EmployerEmployeeMediator.cs",
-              "RelativeToolTip": "Models\\EmployerEmployeeMediator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T16:32:10.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\son_folder\\.net_practices\\LabuorMarketSimulation\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\son_folder\\.net_practices\\LabuorMarketSimulation\\Models\\Employee.cs",
-              "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T15:26:40.742Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -53,6 +27,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypeRegistriesInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\son_folder\\.net_practices\\LabuorMarketSimulation\\Registries\\TypeRegistriesInitializer.cs",
+              "RelativeDocumentMoniker": "Registries\\TypeRegistriesInitializer.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\son_folder\\.net_practices\\LabuorMarketSimulation\\Registries\\TypeRegistriesInitializer.cs",
+              "RelativeToolTip": "Registries\\TypeRegistriesInitializer.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:17:53.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeSkillsRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\son_folder\\.net_practices\\LabuorMarketSimulation\\Registries\\EmployeeSkillsRegistry.cs",
+              "RelativeDocumentMoniker": "Registries\\EmployeeSkillsRegistry.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\son_folder\\.net_practices\\LabuorMarketSimulation\\Registries\\EmployeeSkillsRegistry.cs",
+              "RelativeToolTip": "Registries\\EmployeeSkillsRegistry.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:15:38.486Z",
+              "EditorCaption": ""
             }
           ]
         },

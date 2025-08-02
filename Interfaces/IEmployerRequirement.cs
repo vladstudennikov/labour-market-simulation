@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LabourMarketSimulation.Interfaces
 {
-    public interface IAdvantage
+    public interface IEmployerRequirement
     {
     }
 }
